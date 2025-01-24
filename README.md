@@ -28,6 +28,11 @@ The Credit Card Analysis tool helps users identify the most effective credit car
         - annual fee
         - reward multipliers
 
+5. **Generate New Data**
+    - Generates new files under `data/dynamic` for showing different scenarios
+        - `wallet.json` -> default is 5 cards at random
+        - `transactions.json` -> default is 100 transactions
+
 ### Potential Enhancements:
 While not yet implemented, future ideas include:
 - Storing data in a database
