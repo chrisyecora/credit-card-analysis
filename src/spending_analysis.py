@@ -38,7 +38,7 @@ def recommend_new_cards(wallet: dict) -> list[dict[str, object]]:
         user_cards[name] = 1
 
 
-    all_cards = load_json('data/dynamic/creditcards.json')["creditcards"]
+    all_cards = load_json('data/static/creditcards.json')["creditcards"]
     user_spending = calc_spend_by_cat()
     best_current_cards = best_card_for_category()
 
