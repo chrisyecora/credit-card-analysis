@@ -1,0 +1,262 @@
+{
+    "creditcards": [
+        {
+            "name": "Rewards Everyday Card",
+            "company": "placeholder",
+            "annual_fee": 0,
+            "categories": {
+                "groceries": 3,
+                "dining": 2,
+                "online_shopping": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Premium Travel Plus",
+            "company": "placeholder",
+            "annual_fee": 95,
+            "categories": {
+                "dining": 3,
+                "travel": 5,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Dining Rewards Pro",
+            "company": "placeholder",
+            "annual_fee": 50,
+            "categories": {
+                "dining": 4,
+                "other": 1
+            }
+        },
+        {
+            "name": "Gas Saver Card",
+            "company": "placeholder",
+            "annual_fee": 0,
+            "categories": {
+                "gas": 5,
+                "other": 1
+            }
+        },
+        {
+            "name": "Supermarket Gold",
+            "company": "placeholder",
+            "annual_fee": 60,
+            "categories": {
+                "groceries": 4,
+                "dining": 2,
+                "online_shopping": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Entertainment Boost",
+            "company": "placeholder",
+            "annual_fee": 95,
+            "categories": {
+                "dining": 3,
+                "travel": 2,
+                "entertainment": 5,
+                "other": 1
+            }
+        },
+        {
+            "name": "Online Shopper's Advantage",
+            "company": "placeholder",
+            "annual_fee": 45,
+            "categories": {
+                "travel": 2,
+                "online_shopping": 4,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Travel Explorer Plus",
+            "company": "placeholder",
+            "annual_fee": 85,
+            "categories": {
+                "dining": 2,
+                "travel": 4,
+                "gas": 2,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Cashback Everyday",
+            "company": "placeholder",
+            "annual_fee": 0,
+            "categories": {
+                "groceries": 2,
+                "dining": 2,
+                "travel": 2,
+                "gas": 2,
+                "online_shopping": 2,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Urban Lifestyle Rewards",
+            "company": "placeholder",
+            "annual_fee": 65,
+            "categories": {
+                "groceries": 2,
+                "dining": 3,
+                "travel": 2,
+                "online_shopping": 3,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Jetsetter Platinum",
+            "company": "placeholder",
+            "annual_fee": 125,
+            "categories": {
+                "dining": 2,
+                "travel": 5,
+                "gas": 2,
+                "entertainment": 3,
+                "other": 1
+            }
+        },
+        {
+            "name": "Daily Needs Saver",
+            "company": "placeholder",
+            "annual_fee": 30,
+            "categories": {
+                "groceries": 5,
+                "online_shopping": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Cultural Explorer Card",
+            "company": "placeholder",
+            "annual_fee": 60,
+            "categories": {
+                "groceries": 2,
+                "dining": 3,
+                "travel": 2,
+                "entertainment": 4,
+                "other": 1
+            }
+        },
+        {
+            "name": "Gas Plus Extra",
+            "company": "placeholder",
+            "annual_fee": 0,
+            "categories": {
+                "gas": 5,
+                "online_shopping": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Dining Enthusiast",
+            "company": "placeholder",
+            "annual_fee": 50,
+            "categories": {
+                "dining": 4,
+                "other": 1
+            }
+        },
+        {
+            "name": "World Explorer Card",
+            "company": "placeholder",
+            "annual_fee": 85,
+            "categories": {
+                "groceries": 2,
+                "dining": 3,
+                "travel": 4,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Shop Smart Rewards",
+            "company": "placeholder",
+            "annual_fee": 25,
+            "categories": {
+                "groceries": 3,
+                "other": 1
+            }
+        },
+        {
+            "name": "City Dweller Rewards",
+            "company": "placeholder",
+            "annual_fee": 50,
+            "categories": {
+                "groceries": 2,
+                "dining": 4,
+                "travel": 2,
+                "online_shopping": 3,
+                "other": 1
+            }
+        },
+        {
+            "name": "Weekend Adventurer Card",
+            "company": "placeholder",
+            "annual_fee": 75,
+            "categories": {
+                "dining": 2,
+                "travel": 3,
+                "gas": 3,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Family Grocer's Choice",
+            "company": "placeholder",
+            "annual_fee": 20,
+            "categories": {
+                "groceries": 5,
+                "other": 1
+            }
+        },
+        {
+            "name": "Adventure Rewards Plus",
+            "company": "placeholder",
+            "annual_fee": 100,
+            "categories": {
+                "dining": 2,
+                "travel": 5,
+                "gas": 2,
+                "entertainment": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "Smart Saver Card",
+            "company": "placeholder",
+            "annual_fee": 0,
+            "categories": {
+                "groceries": 2,
+                "dining": 2,
+                "travel": 2,
+                "gas": 2,
+                "online_shopping": 2,
+                "other": 1
+            }
+        },
+        {
+            "name": "High Earner Plus",
+            "company": "placeholder",
+            "annual_fee": 150,
+            "categories": {
+                "groceries": 3,
+                "dining": 3,
+                "travel": 3,
+                "gas": 3,
+                "online_shopping": 3,
+                "entertainment": 3,
+                "other": 1
+            }
+        }
+    ]
+}
