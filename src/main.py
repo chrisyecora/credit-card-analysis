@@ -48,7 +48,6 @@ def display_menu():
     print("4. Visualize Spending Trends")
     print("5. Suggest New Cards Based on Spending")
     print("6. Generate New Mock Data")
-    print("7. Exit")
 
 def _show_wallet():
     wallet = src.load_json('data/dynamic/wallet.json')['wallet']
